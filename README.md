@@ -4,7 +4,7 @@
 The R script works properly if the `UCI HAR Dataset` directory is next to it. This a condition of reading the input files.
 
 ## Code structure
-The code consists of 4 parts:
+The code consists of 4 parts:  
 1. Merging the training and test sets  
 2. Naming the columns appropriately and exracting only the mean and standard deciation measurements  
 3. Including descriptive value names to the target attribute  
