@@ -55,8 +55,7 @@ These signals were used to estimate variables of the feature vector for each pat
 
 ### Variables
 
-In this data set set, the set of variables that were estimated from these signals are (because these are the ones that are measurements on the mean and standard deviation, as needed): 
-
-mean(): Mean value
-std(): Standard deviation
-meanFreq(): Weighted average of the frequency components to obtain a mean frequency
+In this data set set, the set of variables that were estimated from these signals are (because these are the ones that are measurements on the mean and standard deviation, as needed):  
+* mean(): Mean value
+* std(): Standard deviation
+* meanFreq(): Weighted average of the frequency components to obtain a mean frequency
